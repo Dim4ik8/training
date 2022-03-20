@@ -1,0 +1,2 @@
+django v 3.10
+nginx v 3.4
